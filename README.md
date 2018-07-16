@@ -9,4 +9,4 @@ This project uses:
 SASS with css-modules for styling.
 Jest with Enzyme for testing.
 
-Apart from that it all out of the box Gatsby.
+Apart from that it's all out of the box Gatsby.
